@@ -2,7 +2,7 @@
     ──「 ╚»𝐓𝐃𝐍™«╝✘❰𝐀𝐑𝐌𝐘❱ 」──
 </h2>
 
-<p align="center"><a href="https://t.me/TDN_ARMY_BOT"><img src="https://te.legra.ph/file/a7b8068c4f245a4300cd5.jpg"></a></p>
+<p align="center"><a href="https://t.me/TDN_ARMY_BOT"><img src="https://graph.org/file/b12259ac1e037bb6800a2.jpg"></a></p>
 
 
 <h3 align="center">
