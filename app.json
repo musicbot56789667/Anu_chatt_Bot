@@ -1,7 +1,7 @@
 {
-    "name": "Mis_Annuu_chatbot", 
+    "name": "╚»𝐓𝐃𝐍™«╝✘❰𝐀𝐑𝐌𝐘❱", 
     "description": "A Telegram Best Artificial Intelligence Chat Bot , written in Python with Pyrogram",
-    "logo": "https://te.legra.ph/file/a7b8068c4f245a4300cd5.jpg",
+    "logo": "https://graph.org/file/b12259ac1e037bb6800a2.jpg",
     "stack": "container",
     "env": {
         "BOT_TOKEN": {
